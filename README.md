@@ -1,5 +1,9 @@
 # 二维飞控系统模拟
 
+## 误差随时间变化绘图
+
+![error-time](https://github.com/miaooo0000OOOO/2DFlightControlSystem/output/error-time.png)
+
 ## 物理模型
 
 刚体物理引擎模拟
