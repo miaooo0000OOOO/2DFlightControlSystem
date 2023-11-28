@@ -141,7 +141,7 @@ class Env:
         print('loopEnd')
 
 
-fl = np.float
+fl = np.float64
 d = Drone(s=np.array([0, 0], fl),
     v=np.array([0, 0], fl),
     angle=np.pi/2,
